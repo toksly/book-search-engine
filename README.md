@@ -6,12 +6,12 @@ The name of this application is <i>book-search-engine</i> it is a Google book AP
 ![](images/screenShot.png)
 
 <strong>Description</strong>
-This application gives users the ability to sign up by creating a user name, email address and password for login purposes. While logged in, the user can be able to view his/her collection of saved books. The application also allows users to search for a book even without logging in.
+This application gives users the ability to sign up by creating a user name, email address and password for login purposes. While logged in, the user can be able to view his/her collection of saved books. The application also allows users to search for a book even without logging in, while searching, users can use the book title  or author's name.
+
 <strong>Technology used</strong>
  Javascript, graphql,MongoDB database, and MERN stack . 
 
 <strong>Installation</strong>
-
 This project does not need any installation,rather it is currently hosted at Heroku
 <strong>Usage</strong>
 
