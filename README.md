@@ -12,7 +12,7 @@ This application gives users the ability to sign up by creating a user name, ema
  Javascript, graphql,MongoDB database, and MERN stack . 
 
 <strong>Installation</strong>
-This project does not need any installation,rather it is currently hosted at Heroku
+This project does not need any installation,rather it is currently hosted at Heroku via this link https://toksly-book-search-engine.herokuapp.com/
 <strong>Usage</strong>
 
 The application is easy to use. It allows users to find any book of their choice in the database, and gives them the option of saving same.
