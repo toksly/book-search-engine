@@ -46,6 +46,7 @@ This application can be accessed via the link to the deployed application. To be
 ---
 ---
 Sylvester Nwizu
+
 [toksly](https://https://github.com/toksly)
 
 ---
