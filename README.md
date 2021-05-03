@@ -1,21 +1,65 @@
 # book-search-engine
-<strong>book-search-engine</strong>
-The name of this application is <i>book-search-engine</i> it is a Google book API search engine that allows users to search and save books.
+![Screenshot of book-search-engine](images/screenShot.png)
 
-<strong>Image</strong>
-![](images/screenShot.png)
+## Description
 
-<strong>Description</strong>
-This application gives users the ability to sign up by creating a user name, email address and password for login purposes. While logged in, the user can be able to view his/her collection of saved books. The application also allows users to search for a book even without logging in, while searching, users can use the book title  or author's name.
+This is a simple application that  gives users the ability to sign up by creating a user name, email address and password for login purposes. While logged in, the user can be able to view his/her collection of saved books. The application also allows users to search for a book even without logging in, while searching, users can use the book title  or author's name.
 
-<strong>Technology used</strong>
- Javascript, graphql,MongoDB database, and MERN stack . 
+## Table of Contents
 
-<strong>Installation</strong>
-This project does not need any installation,rather it is currently hosted at Heroku via this link https://toksly-book-search-engine.herokuapp.com/
-<strong>Usage</strong>
+- [Website](#website)
+- [Built with](#built-with)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
 
-The application is easy to use. It allows users to find any book of their choice in the database, and gives them the option of saving same.
+---
 
-<strong>Support and Contribution</strong>
-If you have any question please email me at nwizutoks@gmail.com
+## Website
+
+https://toksly-book-search-engine.herokuapp.com/
+
+---
+
+## Built with
+
+- Javascript
+- Graphql
+- MongoDB database
+- MERN stack
+
+
+[Back to table of contents](#table-of-contents)
+
+---
+
+## Usage
+
+This application can be accessed via the link to the deployed application. To be able to utilize the full functionality of this application, simply sign up by providing a unique email and a password.
+
+[Back to table of contrents](#table-of-contents)
+
+---
+
+## Contributors
+
+---
+---
+Sylvester Nwizu
+[toksly](https://github.com/toksly)
+
+---
+---
+
+[Back to table of contents](#table-of-contents)
+
+---
+## Acknowledgements
+
+- [Express.js](https://www.npmjs.com/package/express)
+- [apollo-server-express](https://www.npmjs.com/package/apollo-server-express)
+- [mongoose](https://www.npmjs.com/package/mongoose)
+- [graphql](https://www.npmjs.com/package/graphql)
+
+[Back to Contents](#table-of-contents)
+
