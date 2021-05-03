@@ -29,7 +29,7 @@ https://toksly-book-search-engine.herokuapp.com/
 - MERN stack
 
 
-[Back to table of contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -37,7 +37,7 @@ https://toksly-book-search-engine.herokuapp.com/
 
 This application can be accessed via the link to the deployed application. To be able to utilize the full functionality of this application, simply sign up by providing a unique email and a password.
 
-[Back to table of contrents](#table-of-contents)
+[Back to Table of contrents](#table-of-contents)
 
 ---
 
@@ -52,9 +52,10 @@ Sylvester Nwizu
 ---
 ---
 
-[Back to table of contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents)
 
 ---
+
 ## Acknowledgements
 
 - [Express.js](https://www.npmjs.com/package/express)
@@ -62,5 +63,7 @@ Sylvester Nwizu
 - [mongoose](https://www.npmjs.com/package/mongoose)
 - [graphql](https://www.npmjs.com/package/graphql)
 
-[Back to Contents](#table-of-contents)
+---
+
+[Back to table of Contents](#table-of-contents)
 
